@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body{
+    background-color: aquamarine;
+}
+h1{
+    color: chartreuse;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+h2{
+    text-align: right;
+    color: brown;
+}
+p{
+    text-align: justify;
+}
